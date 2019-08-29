@@ -1,0 +1,81 @@
+body {
+	font-family: 'Cabin', sans-serif;
+}
+
+#copyright {
+	font-size: 14px;
+	text-align: center;
+}
+
+#tableFooter {
+	margin-top: 10%;
+	position: relative;
+	text-align: center;
+	margin: 0 auto;
+}
+
+td {
+	padding:25px;
+}
+
+a, a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+#projectTitle {
+	font-size: 48px;
+	text-align:center;
+	margin-top: 50px;
+}
+
+.column1, .column2 {
+	flex: 50%;
+	float: right;
+}
+
+.column1 {
+
+ 	padding: 165px 200px 25px 750px;
+}
+
+.column2 {
+ 	padding: 50px 200px 25px 750px;
+}
+
+h2 {
+	text-transform: uppercase;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+#brief, #concept {
+	font-size: 14px;
+	letter-spacing: .05em;
+	line-height: 200%;
+}
+
+#vertical {
+	position: relative;
+	max-height: 600px;
+	max-width: 600px;
+	margin-top: -530px;
+	margin-left: 250px;	 
+}
+
+#horizontal {
+	max-height: 1000px;
+	max-width: 1000px;
+	display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  margin-bottom: 3%;
+	  margin-top: 3%;
+}
+
+
+
+
+
+
+
