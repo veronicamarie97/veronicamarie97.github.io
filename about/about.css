@@ -1,0 +1,96 @@
+body {
+	font-family: 'Cabin', sans-serif;
+}
+
+#copyright {
+	margin-top: 23%;
+	font-size: 14px;
+	text-align: center;
+}
+
+#tableFooter {
+	position: absolute;
+	text-align: center;
+	display: block;
+	  margin-left: 12%;
+	  margin-right: auto;
+	  margin-bottom: 3%;
+	  margin-top: 20%;
+}
+
+td {
+	padding:25px;
+}
+
+#projectTitle {
+	font-size: 48px;
+	text-align:center;
+	margin-top: 50px;
+}
+
+.column1 {
+	flex: 50%;
+}
+
+.column1 {
+  padding: 190px 300px 25px 50px;
+}
+
+
+h1 {
+	font-size: 36px;
+	font-weight: bold;
+	letter-spacing: .04em;
+	line-height: 70%;
+}
+h5{
+	font-size: 20px;
+	font-weight:normal;
+	letter-spacing: .02em;
+	line-height: 150%;
+}
+
+#bio, #concept {
+	font-size: 14px;
+	letter-spacing: .08em;
+	line-height: 250%;
+}
+
+p {
+	font-size: 16px;
+	letter-spacing: .08em;
+	line-height: 250%;
+}
+
+#me {
+	float:left;
+	max-height: 400px;
+	max-width: 400px;
+	display: block;
+	  margin-left: 12%;
+	  margin-right: auto;
+	  margin-bottom: 3%; 
+	  margin-top: 8%;
+}
+
+.icons {
+	max-height: 25px;
+	max-width: 25px;
+	margin: .33%;
+}
+
+#iconDiv {
+	justify-content: center;
+	margin-left: 52%;
+	margin-top: -1%;
+}
+
+a, a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+
+
+
+
